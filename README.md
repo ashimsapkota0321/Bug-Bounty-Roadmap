@@ -1,4 +1,4 @@
-# 🐞 Bug Bounty Beginner's Roadmap
+# Bug Bounty Beginner's Roadmap
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge" />
@@ -14,13 +14,13 @@ Welcome to my Bug Bounty Beginner's Roadmap!
 
 I'm Asim Sapkota, a software developer with experience and interests in:
 
-🐍 Python and Django
+  Python and Django
 
-💻 C# and .NET Development
+  C# and .NET Development
 
-🎮 Unity Game Development
+  Unity Game Development
 
-🌐 Web and Backend Development
+  Web and Backend Development
 
 I'm passionate about building software, exploring new technologies, and continuously improving my technical skills.
 
@@ -36,7 +36,7 @@ This repository will continue to evolve as I learn new techniques, discover usef
 
 ---
 
-# 📚 Table of Contents
+# Table of Contents
 
 - [Introduction](#-introduction)
 - [Prerequisites](#-prerequisites)
@@ -57,7 +57,7 @@ This repository will continue to evolve as I learn new techniques, discover usef
 
 ---
 
-# 🎯 Introduction
+# Introduction
 
 ### What is a Security Vulnerability?
 
@@ -86,11 +86,11 @@ Rewards depend on the vulnerability's severity, business impact, exploitability,
 
 Common rewards include:
 
-- 💰 Monetary rewards
-- 🏆 Hall of Fame recognition
-- 🎁 Merchandise and gifts
-- 📜 Certificates and recognition
-- 💻 Premium subscriptions
+-  Monetary rewards
+-  Hall of Fame recognition
+-  Merchandise and gifts
+-  Certificates and recognition
+-  Premium subscriptions
 
 Some programs offer rewards ranging from a few dollars to thousands of dollars or more.
 
@@ -98,13 +98,13 @@ Some programs offer rewards ranging from a few dollars to thousands of dollars o
 
 ---
 
-# 🧠 Prerequisites
+# Prerequisites
 
 Before jumping into vulnerability hunting, build a strong technical foundation.
 
 You don't need to master everything before starting. Learn the fundamentals and improve through hands-on practice.
 
-# 📖 What to Learn
+# What to Learn
 
 ## 1. Computer Fundamentals
 
@@ -220,7 +220,7 @@ Useful resources:
 
 ---
 
-# 🌐 Web Application Security
+# Web Application Security
 
 This should be your primary focus when starting web-based bug bounty hunting.
 
@@ -267,7 +267,7 @@ Important vulnerability categories:
 
 ---
 
-# 🔐 API Security
+# API Security
 
 Modern applications heavily depend on APIs. Understanding API security can give you an advantage when hunting vulnerabilities.
 
@@ -294,7 +294,7 @@ Recommended resource:
 
 ---
 
-# 🛠️ Essential Bug Bounty Tools
+# Essential Bug Bounty Tools
 
 Tools help security researchers analyze applications, inspect traffic, discover assets, and automate repetitive tasks.
 
@@ -340,7 +340,7 @@ Tools help security researchers analyze applications, inspect traffic, discover 
 
 ---
 
-# 📚 Learning Resources
+# Learning Resources
 
 ## Books
 
@@ -383,7 +383,7 @@ Reading other researchers' reports is one of the best ways to improve your metho
 
 ---
 
-# 🧪 Practice Platforms and Labs
+# Practice Platforms and Labs
 
 Theory alone is not enough. Spend as much time as possible practicing in intentionally vulnerable environments.
 
@@ -413,7 +413,7 @@ Theory alone is not enough. Spend as much time as possible practicing in intenti
 
 ---
 
-# 🏆 Bug Bounty Platforms
+# Bug Bounty Platforms
 
 Once you understand the fundamentals and have practiced in labs, start exploring public and private bug bounty programs.
 
@@ -438,7 +438,7 @@ Always read the program's scope, exclusions, testing requirements, and disclosur
 
 ---
 
-# 🔎 Vulnerability Databases
+# Vulnerability Databases
 
 Stay updated with publicly disclosed vulnerabilities, security advisories, and new attack techniques.
 
@@ -455,7 +455,7 @@ Stay updated with publicly disclosed vulnerabilities, security advisories, and n
 
 ---
 
-# 🔍 Bug Bounty Methodology
+# Bug Bounty Methodology
 
 Develop your own methodology instead of blindly following tools and automated scripts.
 
@@ -515,7 +515,7 @@ Focus on understanding:
 
 ---
 
-# 📝 How to Write a Bug Bounty Report
+# How to Write a Bug Bounty Report
 
 A good vulnerability report should be clear, technically accurate, reproducible, and focused on real-world impact.
 
@@ -589,7 +589,7 @@ For example:
 
 ---
 
-# 📅 30-Day Beginner Roadmap
+# 30-Day Beginner Roadmap
 
 A practical starting plan to build your foundation.
 
@@ -611,7 +611,7 @@ This is a starting roadmap, not a guarantee that you will be ready to earn bug b
 
 ---
 
-# 💡 Tips for Beginners
+# Tips for Beginners
 
 1. **Be consistent:** Spend time learning and practicing every day, even if it is only one hour.
 
@@ -635,7 +635,7 @@ This is a starting roadmap, not a guarantee that you will be ready to earn bug b
 
 ---
 
-# ⚖️ Legal and Ethical Guidelines
+# Legal and Ethical Guidelines
 
 Ethical hacking requires permission and responsibility.
 
@@ -653,7 +653,7 @@ Always follow these rules:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 This repository is open to contributions from everyone interested in cybersecurity and ethical hacking.
 
@@ -679,7 +679,7 @@ Please ensure all contributions are educational, accurate, and legally appropria
 
 ---
 
-# ⭐ Support This Repository
+# Support This Repository
 
 If you find this roadmap useful:
 
